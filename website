@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Welcome to our Website</title>
+    <link rel="stylesheet" href="../Visual Studio Code/css/Work.css">
+</head>
+<body>
+    
+ <nav>
+     <!--<input type="checkbox" id ="check">
+     <label for="check">
+         <i class ="fas fa-bars"></i>
+     </label>-->
+    <label>V IMPERIAL</label>
+        <ul>
+            <li> <a href="#">HOME</a> </li>
+            <li> <a href="#">ABOUT US</a> </li>
+            <li> <a href="#">OUR SERVICES</a> </li>
+            <li> <a href="#">CONTACT US</a> </li>
+            <li> <a href="#">INSIGHTS</a> </li>
+        </ul>
+</nav>
+    
+
+<!--<section>
+<div class="NOne">
+    <div class="One">
+        Learn Flexbox and use it in this
+        Hey
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing 
+            elit. Fugit qui corrupti id natus! Ducimus vitae, 
+            repellendus doloribus architecto iure dolorum esse ad? 
+            Esse, expedita explicabo iusto ipsam officiis dolorum 
+            culpa ea aliquid maxime ab, magni voluptate id saepe, 
+            aut debitis eum repellat blanditiis ipsa facere eaque. 
+            Facere consectetur modi, saepe dignissimos architecto 
+            aliquam quam atque? Fuga suscipit omnis hic cumque qui 
+            tempore, dolorem commodi facilis dignissimos accusantium 
+            mollitia animi cum, excepturi, delectus tempora corporis 
+            sapiente minima eius nisi aut! Illum tenetur facilis eius 
+            optio enim sunt fuga veritatis nesciunt asperiores autem 
+            deserunt, quia repellendus sint totam ad fugit eos velit 
+            iste dolorem porro animi dolores. Magnam odit placeat 
+            nostrum quidem odio incidunt, corrupti repellat sunt in 
+            id alias. Qui vitae repellendus, ducimus quam ea sit 
+            expedita aspernatur voluptatum officiis placeat tempore 
+            asperiores praesentium, numquam officia eaque doloribus. 
+            Nihil veniam a animi, quis id facilis atque voluptas fuga, 
+            et architecto odit officiis aut ex doloremque ad sint eius 
+            maiores sit. Ad, molestias repellendus voluptate fugit animi
+             eligendi consequuntur nulla ratione illum. Nam nemo 
+             beatae commodi eveniet eos possimus rerum ea, numquam 
+             itaque illo at ut inventore neque nulla quasi aliquid! 
+             Labore repudiandae aliquid ex officia, rem reiciendis 
+             quia voluptatum sed ipsum.</p>
+
+    </div>
+    <div class ="Two">
+        Heyyy
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing 
+            elit. Fugit qui corrupti id natus! Ducimus vitae, 
+            repellendus doloribus architecto iure dolorum esse ad? 
+            Esse, expedita explicabo iusto ipsam officiis dolorum 
+            culpa ea aliquid maxime ab, magni voluptate id saepe, 
+            aut debitis eum repellat blanditiis ipsa facere eaque. 
+            Facere consectetur modi, saepe dignissimos architecto 
+            aliquam quam atque? Fuga suscipit omnis hic cumque qui 
+            tempore, dolorem commodi facilis dignissimos accusantium 
+            mollitia animi cum, excepturi, delectus tempora corporis 
+            sapiente minima eius nisi aut! Illum tenetur facilis eius 
+            optio enim sunt fuga veritatis nesciunt asperiores autem 
+            deserunt, quia repellendus sint totam ad fugit eos velit 
+            iste dolorem porro animi dolores. Magnam odit placeat 
+            nostrum quidem odio incidunt, corrupti repellat sunt in 
+            id alias. Qui vitae repellendus, ducimus quam ea sit 
+            expedita aspernatur voluptatum officiis placeat tempore 
+            asperiores praesentium, numquam officia eaque doloribus. 
+            Nihil veniam a animi, quis id facilis atque voluptas fuga, 
+            et architecto odit officiis aut ex doloremque ad sint eius 
+            maiores sit. Ad, molestias repellendus voluptate fugit animi
+             eligendi consequuntur nulla ratione illum. Nam nemo 
+             beatae commodi eveniet eos possimus rerum ea, numquam 
+             itaque illo at ut inventore neque nulla quasi aliquid! 
+             Labore repudiandae aliquid ex officia, rem reiciendis 
+             quia voluptatum sed ipsum.</p>
+
+    </div>
+    <div class ="Three">
+        Heyyyy
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing 
+        elit. Fugit qui corrupti id natus! Ducimus vitae, 
+        repellendus doloribus architecto iure dolorum esse ad? 
+        Esse, expedita explicabo iusto ipsam officiis dolorum 
+        culpa ea aliquid maxime ab, magni voluptate id saepe, 
+        aut debitis eum repellat blanditiis ipsa facere eaque. 
+        Facere consectetur modi, saepe dignissimos architecto 
+        aliquam quam atque? Fuga suscipit omnis hic cumque qui 
+        tempore, dolorem commodi facilis dignissimos accusantium 
+        mollitia animi cum, excepturi, delectus tempora corporis 
+        sapiente minima eius nisi aut! Illum tenetur facilis eius 
+        optio enim sunt fuga veritatis nesciunt asperiores autem 
+        deserunt, quia repellendus sint totam ad fugit eos velit 
+        iste dolorem porro animi dolores. Magnam odit placeat 
+        nostrum quidem odio incidunt, corrupti repellat sunt in 
+        id alias. Qui vitae repellendus, ducimus quam ea sit 
+        expedita aspernatur voluptatum officiis placeat tempore 
+        asperiores praesentium, numquam officia eaque doloribus. 
+        Nihil veniam a animi, quis id facilis atque voluptas fuga, 
+        et architecto odit officiis aut ex doloremque ad sint eius 
+        maiores sit. Ad, molestias repellendus voluptate fugit animi
+         eligendi consequuntur nulla ratione illum. Nam nemo 
+         beatae commodi eveniet eos possimus rerum ea, numquam 
+         itaque illo at ut inventore neque nulla quasi aliquid! 
+         Labore repudiandae aliquid ex officia, rem reiciendis 
+         quia voluptatum sed ipsum.</p>
+
+    </div>
+
+</div>
+</section>-->
+
+<section>
+    <img src="../Visual Studio Code/56.png" alt="A freaking Picture">
+</section>
+    
+</body>
+</html>
